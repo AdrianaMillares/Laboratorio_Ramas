@@ -6,6 +6,6 @@ El objetivo de la actividad es conocer sobre el control de versiones y poder des
 
 #### Equipo 4
 
-* José Ángel García López - rol
+* José Ángel García López - rol Supervisor
 * Paola Adriana Millares Forno - rol Líder
-* José Armando Rosas Balderas - rol 
+* José Armando Rosas Balderas - rol Participante
